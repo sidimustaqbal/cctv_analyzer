@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+video
+venv/
+
+# Node.js
+cctv-analyzer-frontend/node_modules/
+cctv-analyzer-frontend/.next/

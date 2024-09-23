@@ -21,13 +21,13 @@ The CCTV Analysis System is an application that uses artificial intelligence to 
 ## Project Structure
 cctv-analysis-system/
 ├── backend/
-│ ├── models/
-│ ├── utils/
-│ └── main.py
+│   ├── models/
+│   ├── utils/
+│   └── main.py
 ├── frontend/
-│ ├── components/
-│ ├── pages/
-│ └── styles/
+│   ├── components/
+│   ├── pages/
+│   └── styles/
 ├── data/
-│ └── sample_videos/
+│   └── sample_videos/
 └── README.md
